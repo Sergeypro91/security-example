@@ -6,6 +6,7 @@
   "author": "SergeyShevtsov <sergeyprostoas@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "cookie-session": "^2.0.0",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "helmet": "^5.0.2",
